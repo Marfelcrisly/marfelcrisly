@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marfelcrisly/Marfelcrisly/main/img/1.jpeg" alt="Marfel Crisly Profile Picture" width="200"/>
+</p>
+
 ---
 
 ### 🚀 Tentang Saya
