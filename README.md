@@ -13,43 +13,52 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Marfelcrisly/Marfelcrisly/main/img/1.jpeg" alt="Marfel Crisly Profile Picture" width="200"/>
+  <img src="img/2.jpeg" alt="Marfel Crisly Profile Picture" width="200"/>
 </p>
 
 ---
 
 ### 🚀 Tentang Saya
 
-Seorang **Lulusan Teknik Informatika** yang bersemangat dengan fokus pada **Pengembangan Perangkat Lunak**. Saya memiliki ketertarikan mendalam pada **Fullstack Development** dan selalu mencari cara untuk membangun solusi yang inovatif.
+Saya adalah seorang **Front-End Developer** dan lulusan **Teknik Informatika (S1)** dari Universitas Pamulang. Saya bersemangat dalam merancang antarmuka pengguna yang interaktif dan membangun sistem aplikasi yang efisien. 
 
-Saat ini, saya sedang mendalami **Go gRPC Fullstack E-commerce menggunakan Go ReactJS**, berambisi untuk menguasai teknologi modern dan arsitektur mikroservis. Saya percaya pada pembelajaran berkelanjutan dan selalu siap menghadapi tantangan teknis baru.
+Dengan fondasi yang kuat di sisi *frontend* (**ReactJS**) serta pemahaman *backend* yang solid (**PHP & Laravel**), saya terbiasa menjembatani logika sistem dengan pengalaman pengguna yang optimal. Selain pengembangan web, saya juga secara aktif memperdalam keahlian di bidang **Data Analitik** dan **Artificial Intelligence (AI)**, yang dibuktikan dengan berbagai sertifikasi profesional yang saya selesaikan.
 
 ---
 
 ### 🛠️ Keahlian Teknologi
 
-Berikut adalah beberapa teknologi dan tools yang saya kuasai dan sedang saya pelajari:
-
-| Kategori     | Teknologi                                          |
+| Kategori     | Teknologi & Tools                                  |
 | :----------- | :------------------------------------------------- |
-| **Bahasa** | `PHP`, `JavaScript`, `HTML`, `CSS`, `SQL`          |
-| **Frameworks** | `Bootstrap 5`, `jQuery`                            |
+| **Bahasa** | `JavaScript`, `PHP`, `Python`, `C`, `HTML5`, `CSS3`, `SQL` |
+| **Frameworks**| `ReactJS`, `Laravel`, `Bootstrap 5`, `jQuery`     |
 | **Database** | `MySQL`                                            |
-| **Tools** | `Git`, `VS Code`, `XAMPP`, `Control Panel`         |
-| **Mempelajari**| `Go`, `gRPC`, `ReactJS`                            |
+| **Tools & Data**| `Git`, `VS Code`, `Power BI`, `Spreadsheets`, `Microsoft Fabric` |
+| **AI & Cloud** | `AI Prompt Engineering`, `Microsoft Azure`, `Local LLMs` |
+
+---
+
+### 🏆 Lisensi & Sertifikasi
+
+Saya selalu antusias untuk belajar dan meningkatkan keahlian. Berikut adalah pencapaian sertifikasi terbaru saya:
+
+* 🏅 **Data Analysis with Spreadsheets and SQL** - Meta (Coursera)
+* 🏅 **Membangun Aplikasi Gen AI dengan Microsoft Azure** - Dicoding 
+* 🏅 **Belajar Penerapan Data Science dengan Microsoft Fabric** - Dicoding 
+* 🏅 **Memulai Pemrograman dengan Python** - Dicoding 
 
 ---
 
 ### ✨ Proyek Pilihan
 
-Beberapa karya yang saya banggakan dan menunjukkan kemampuan saya:
+Beberapa karya yang saya kembangkan untuk memecahkan masalah nyata:
 
-* **[Web-Pemula](https://github.com/Marfelcrisly/Web-Pemula)**
-    * Dasar-dasar pengembangan web responsif menggunakan HTML dan CSS. Proyek awal yang menunjukkan pemahaman struktur dan styling website.
+* **[Sistem Pakar Diagnosa Laptop Berbasis Web](#)** *(Tambahkan link repo jika ada)*
+    * **Deskripsi:** Aplikasi sistem pakar untuk mendiagnosa kerusakan laptop menggunakan metode **Case-Based Reasoning (CBR)**. Proyek ini menunjukkan kemampuan penyelesaian masalah logis dan integrasi sistem.
 * **[diagnosalambung](https://github.com/Marfelcrisly/diagnosalambung)**
-    * Sistem diagnosa penyakit lambung berbasis web, dibangun dengan JavaScript. Menampilkan kemampuan dalam logika dan interaktivitas frontend.
+    * **Deskripsi:** Sistem diagnosa penyakit lambung berbasis web menggunakan antarmuka interaktif JavaScript.
 * **[sims-ppob-marfelcrisly](https://github.com/Marfelcrisly/sims-ppob-marfelcrisly)**
-    * Sistem informasi manajemen PPOB. Menggambarkan keahlian dalam pengembangan aplikasi berbasis sistem dengan JavaScript.
+    * **Deskripsi:** Sistem Informasi Manajemen PPOB (Payment Point Online Bank) yang menggambarkan pemahaman dalam alur transaksi dan pengelolaan data pengguna.
 
 *Lihat lebih banyak proyek saya di [repositori GitHub saya](https://github.com/Marfelcrisly?tab=repositories).*
 
@@ -57,14 +66,13 @@ Beberapa karya yang saya banggakan dan menunjukkan kemampuan saya:
 
 ### 📈 Statistik GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marfelcrisly&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marfelcrisly&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marfelcrisly&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 📫 Mari Terhubung
 
-Saya selalu terbuka untuk kolaborasi, proyek menarik, atau sekadar berbagi ide. Jangan ragu untuk menghubungi saya!
+Saya selalu terbuka untuk peluang karir sebagai *Front-End Developer*, kolaborasi proyek, atau sekadar berdiskusi tentang teknologi. Jangan ragu untuk menghubungi saya!
 
 * **Email:** marfelcrisly123@gmail.com
 * **LinkedIn:** [linkedin.com/in/marfel-crisly-123964250](https://www.linkedin.com/in/marfel-crisly-123964250/)
