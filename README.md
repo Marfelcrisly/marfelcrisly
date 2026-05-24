@@ -93,10 +93,9 @@ Alih-alih sekadar membaca, ini adalah teknologi yang biasa saya gunakan sehari-h
 </td>
 </tr>
 </table>
+<br>
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marfelcrisly&show_icons=true&theme=radical" alt="Marfel's GitHub Stats" />
-</div>
+![Marfel's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Marfelcrisly&show_icons=true&theme=radical)
